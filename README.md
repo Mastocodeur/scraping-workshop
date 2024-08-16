@@ -7,9 +7,10 @@ Workshop to discover two Python modules for scraping: Selenium and BeautifulSoup
 <div style="text-align: center;">
     <img src="activities_in_english/images/web_scraping.png" width="500" height="300">
 </div>
+
 🌏
 English |
-[**French**](https://github.com/Mastocodeur/tuto_scraping/blob/main/README.fr.md) |</div>
+[**French**](https://github.com/Mastocodeur/scraping-workshop/blob/main/README.fr.md) |</div>
 
 ---
 
