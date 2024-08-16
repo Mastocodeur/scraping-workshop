@@ -1,0 +1,8 @@
+selenium
+time
+random
+pandas
+beautifulsoup4
+ipykernel
+html5lib
+requests
