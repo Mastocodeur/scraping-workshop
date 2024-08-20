@@ -1,8 +1,7 @@
-selenium
+selenium==4.23.1
 time
-random
-pandas
-beautifulsoup4
-ipykernel
+pandas==2.2.0
+beautifulsoup4==4.12.3
+ipykernel==6.29.4
 html5lib
-requests
+requests==2.31.0                      
